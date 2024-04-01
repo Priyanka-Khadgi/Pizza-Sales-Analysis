@@ -2,7 +2,7 @@
 
 ## Checkout and Interact with my Dashboard On:
 
-https://www.novypro.com/project/pizza-sales-2 -- to be edited
+https://www.novypro.com/project/pizza-sales-analysis-dashboard-8
 
 # INTRODUCTION
 
@@ -23,11 +23,11 @@ The project involves the following key steps:
 
 The dataset consists of a year's worth of sales from a fictitious pizza place, including the date and time of each order and the pizzas served, with additional details on the type, size, quantity, price, and ingredients.
 
-# PROBLEM STATEMENT:
+# PROBLEM STATEMENT
 
 Understanding the sales, revenue and growth patterns of a pizza company is crucial, but handling vast data on them is challenging. Hence, a simplified visualization tool is needed for informed decision-making.
 
-### The business problems addressed in this report are-
+### The business problems addressed in this report are -
 
 1. What is the total revenue over a specific period?
 2. How many pizzas are sold in total?
@@ -43,15 +43,15 @@ Understanding the sales, revenue and growth patterns of a pizza company is cruci
 
 ### The following are some of the key findings from the analysis
 
-Approximately 21,000 pizza orders were processed and a total of 50,000 pizzas were sold with an an impressive revenue of $818,000.
-Customers displayed a consistent average order value of around $38, each order typically consisted of 2 pizzas, on average.
-Orders are highest on Weekends, Friday/Saturday and the peak months for orders were observed in July and January.
-The 'Large' size emerged as the preferred choice for most customers.
-The 'Classic' pizza category stood out as the highest revenue generator.
-The Thai Chicken Pizza emerged as the top contributor to revenue.
-The Brie Carre Pizza exhibited the least revenue, quantities, and orders.
-The 'Classic' pizza category dominated with a 27% share of total sales.
-The 'Large' size pizza commanded 46% of total sales, emerging as the best size option.
+1. Approximately 21,000 pizza orders were processed and a total of 50,000 pizzas were sold with an an impressive revenue of $818,000.
+2. Customers displayed a consistent average order value of around $38, each order typically consisted of 2 pizzas, on average.
+3. Orders are highest on Weekends, Friday/Saturday and the peak months for orders were observed in July and January.
+4. The 'Large' size emerged as the preferred choice for most customers.
+5. The 'Classic' pizza category stood out as the highest revenue generator.
+6. The Thai Chicken Pizza emerged as the top contributor to revenue.
+7. The Brie Carre Pizza exhibited the least revenue, quantities, and orders.
+8. The 'Classic' pizza category dominated with a 27% share of total sales.
+. The 'Large' size pizza commanded 46% of total sales, emerging as the best size option.
 
 # CONCLUSION
 
