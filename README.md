@@ -6,7 +6,7 @@ https://www.novypro.com/project/pizza-sales-analysis-dashboard-8
 
 # INTRODUCTION
 
-This dashboard presents a dynamic and comprehensive overview of our pizza sales data, leveraging insights from Excel and SQL sources. Dive into a tailored analysis spanning a specific date range, empowering users to uncover trends, identify top-selling pizzas, and track key performance indicators such as total revenue and average order value.
+This dashboard presents a dynamic and comprehensive overview of the pizza sales data, leveraging insights from Excel and SQL sources. Dive into a tailored analysis spanning a specific date range, empowering users to uncover trends, identify top-selling pizzas, and track key performance indicators such as total revenue and average order value.
 
 # PROJECT OVERVIEW
 
